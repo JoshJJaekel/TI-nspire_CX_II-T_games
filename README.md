@@ -5,6 +5,8 @@ This repository contains .tns files for "Snake" and "Minesweeper", so you can ru
 
 Controls:
 
+While playing press "esc" two times two exit
+
 Snake:
 
 

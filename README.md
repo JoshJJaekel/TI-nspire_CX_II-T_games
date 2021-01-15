@@ -14,9 +14,7 @@ tab = pause
 
     colormode.1 = red
 
-    colormode.2 + menu = change color
-
-    colormode.3 = random color every move
+    colormode.2 + menu = change color 
 
 left_arrow/4 = left
 

@@ -5,22 +5,37 @@ Controls:
 
 Snake:
 
+
 enter = continue
+
 tab = pause
-pause + menu = change colormode
-  colormode.1 = red
-  colormode.2 + menu = change color
-  colormode.3 = random color every move
+
+  pause + menu = change colormode
+
+    colormode.1 = red
+
+    colormode.2 + menu = change color
+
+    colormode.3 = random color every move
+
 left_arrow/4 = left
+
 right_arrow/6 = right
+
 up_arrow/8 = up
+
 down_arrow/2 = down 
 
 
 Minesweeper:
 
+
 enter = continue
+
 menu-navigation = enter/arrowKey_up/arrowKey_down
+
 arrowkeys = left/right/up/down
+
 touchpad-center = mark as mine
+
 enter = analyze field

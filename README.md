@@ -2,6 +2,7 @@
 
 # TI-nspire_CX_II-T_games
 This repository contains .tns files for "Snake" and "Minesweeper", so you can run these programs on a TI-nspire CX T/TI-nspire CX II-T. You need the TI-nspire CX Student software to transfer the programs to your TI-nspire.  
+These were written in TI-Basic. 
 
 Controls:
 
